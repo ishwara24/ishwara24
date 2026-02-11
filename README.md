@@ -1,10 +1,10 @@
-# Hi, I’m **Ishwara Sinha** 👋  
+# Hi, I’m **Ishwara Sinha**   
 **Final Year B.Tech Student | Building Human-Centered Systems—Dashboards, Automations & Insight Engines**  
 **3× Hackathon Finalist (SIH, HackIndia, HackTU) | Community Leader | Analytics Practitioner**
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 I build projects at the intersection of **analytics, automation, and human-centered problem solving**.  
 
 My recent work includes:  
@@ -18,7 +18,7 @@ I enjoy turning raw datasets into clarity, visual stories, and systems that supp
 
 ---
 
-## 📊 Analytics & Data Projects  
+##  Analytics & Data Projects  
 
 ### 🔹 Profit Leakage Intelligence Dashboard  
 Uncovered **32.4% loss-making transactions** and margin erosion across categories.  
@@ -34,7 +34,7 @@ Exposed SLA failures & **₹112.6K cost leakage**; built automated daily-refresh
 
 ---
 
-## 🛠️ Skills & Tools  
+##  Skills & Tools  
 
 **Analytics:** Power BI, SQL, Python, Excel  
 **Methods:** RFM, Cohorts, Churn Metrics, ETL, KPI Modeling  
@@ -43,7 +43,7 @@ Exposed SLA failures & **₹112.6K cost leakage**; built automated daily-refresh
 
 ---
 
-## 🏆 Hackathons & Achievements  
+##  Hackathons & Achievements  
 
 - **Smart India Hackathon 2024 – Finalist**  
 - **HackIndia 2024 – Top 14 out of 2,000+ teams**  
@@ -53,7 +53,7 @@ Building under pressure, solving ambiguous problems, and designing meaningful so
 
 ---
 
-## 🌐 Connect With Me  
+##  Connect With Me  
 
 🌍 **Portfolio:** [datascienceportfolio.io/ishwarasinha24](https://datascienceportfolio.io/ishwarasinha24)  
 💼 **LinkedIn:** [linkedin.com/in/ishwara-sinha](https://linkedin.com/in/ishwara-sinha)  
